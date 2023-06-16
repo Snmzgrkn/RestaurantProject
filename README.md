@@ -26,6 +26,8 @@ Bu proje, Bulut Sistemleri ve Ağlar dersi için geliştirilmiş bir restoran re
 
 - Admin paneline giriş yaparak sistemi yönetebilirsiniz.
   ![Restoran Projesi Ekran Görüntüsü](https://github.com/Snmzgrkn/RestaurantProject/blob/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(106).png)
+    ![Restoran Projesi Ekran Görüntüsü](https://github.com/Snmzgrkn/RestaurantProject/blob/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(107).png)
+
 ## Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakınız.
